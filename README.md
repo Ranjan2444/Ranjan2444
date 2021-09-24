@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranjan2444
+- 👋 Hi, I’m Ranjan Joshi
 - 👀 I’m interested in Web Development and Game Development
 - 🌱 I’m currently learning Reactjs and Unreal Game Engine
 
